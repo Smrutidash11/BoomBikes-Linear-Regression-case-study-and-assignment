@@ -1,4 +1,4 @@
-# Project Name
+# BOOMBIKE-Bike Rental Booking Analysis 
 > This project focuses on conducting a predictive analysis for a bike rental company called Boom Bike, which experienced a decline in rentals during the COVID-19 pandemic. The goal is to identify and understand the various factors that influence bike rental trends.
 
 
